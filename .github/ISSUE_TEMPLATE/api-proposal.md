@@ -1,6 +1,6 @@
 ---
 name: API Proposal
-about: "(WebView2 team only) Open a new API proposal review"
+about: "(WEBVIEW2 TEAM ONLY) Open a new API proposal review"
 title: 'API Proposal:'
 labels: API Proposal
 assignees: ''
