@@ -1,6 +1,6 @@
 # WebView2Announcements
 
-This repo is for team announcements only, including new releases, API proposals, and potentially major regressions. 
+This repo is for team announcements only, including new releases, API proposals, and app compat issues. 
 To file a bug or feature request on WebView2, please use the [WebViewFeedback repo](https://github.com/MicrosoftEdge/WebViewFeedback/issues)
 and create a new issue.
 
