@@ -1,6 +1,6 @@
 ---
 name: SDK Release
-about: "(WEBVIEW TEAM ONLY) Announce a new SDK release "
+about: "(WEBVIEW2 TEAM ONLY) Announce a new SDK release "
 title: 'SDK Release: <version>'
 labels: SDK Release
 assignees: ''
