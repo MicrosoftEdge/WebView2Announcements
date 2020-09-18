@@ -17,6 +17,6 @@ Subscribe to this repo to be notified about our team announcements for WebView2.
 Use the appropriate labels to see what's going on:
 
 * [What's new](https://github.com/MicrosoftEdge/WebView2Announcements/issues) (no label)
-* [SDK Releases](https://github.com/MicrosoftEdge/WebView2Announcements/issues?q=is%3Aopen+is%3Aissue+label%3A%SDK+Release%22)
-* [Breaking Changes](https://github.com/MicrosoftEdge/WebView2Announcements/issues?q=is%3Aopen+is%3Aissue+label%3A%22Breaking+Change%22)
-* [API Proposals](https://github.com/MicrosoftEdge/WebView2Announcements/issues?q=is%3Aopen+is%3Aissue+label%3A%22API+Proposal%22)
+* [SDK Releases](https://github.com/MicrosoftEdge/WebView2Announcements/labels/SDK%20Release)
+* [API Proposals](https://github.com/MicrosoftEdge/WebView2Announcements/labels/API%20Proposal)
+* [Breaking Changes](https://github.com/MicrosoftEdge/WebView2Announcements/labels/Breaking%20Change)
