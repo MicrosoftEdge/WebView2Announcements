@@ -18,5 +18,5 @@ Use the appropriate labels to see what's going on:
 
 * [What's new](https://github.com/MicrosoftEdge/WebView2Announcements/issues) (no label)
 * [SDK Releases](https://github.com/MicrosoftEdge/WebView2Announcements/labels/SDK%20Release)
-* [API Proposals](https://github.com/MicrosoftEdge/WebView2Announcements/labels/API%20Proposal)
+* [API Reviews](https://github.com/MicrosoftEdge/WebView2Announcements/labels/API%20Review)
 * [Breaking Changes](https://github.com/MicrosoftEdge/WebView2Announcements/labels/Breaking%20Change)
